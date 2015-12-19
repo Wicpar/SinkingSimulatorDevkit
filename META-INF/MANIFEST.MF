@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.4
+Created-By: 1.7.0_65-b19 (Oracle Corporation)
+Plugin-Id: YourPlugin
+Plugin-Class: com.yourdomain.yourpackage.Main
+Plugin-Version: 0.0.1
+Plugin-Provider: YourName
+Plugin-Dependencies: 
+
