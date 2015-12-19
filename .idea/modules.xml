@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Test-Plugin-PF4J.iml" filepath="$PROJECT_DIR$/Test-Plugin-PF4J.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SinkingSimulatorDevkit.iml" filepath="$PROJECT_DIR$/SinkingSimulatorDevkit.iml" />
     </modules>
   </component>
 </project>
